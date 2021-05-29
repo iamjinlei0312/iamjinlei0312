@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+😄 你好~ 我是 张金磊，BOX定投践行群资深践谍。 喜爱游戏，跑步，读书，编程。 
+
+明白一些道理，遇见些有趣儿的事～
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhang-Jinlei&show_icons=true&theme=radical)
