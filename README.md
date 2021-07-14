@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Zhang-Jinlei/Zhang-Jinlei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**iamjinlei0312/iamjinlei0312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
