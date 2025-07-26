@@ -11,4 +11,4 @@
 
 记录我的跑步旅程：
 
-<img src="apple_health_circular.svg" alt="Apple Health Circular" width="200"/>
+<img src="apple_health_circular.svg" alt="Apple Health Circular" width="10000"/>
