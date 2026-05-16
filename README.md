@@ -7,7 +7,6 @@
 
 明白一些道理，遇见些有趣儿的事～
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjinlei0312&show_icons=true&theme=radical)
 
 记录我的跑步旅程：
 
